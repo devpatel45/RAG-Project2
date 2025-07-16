@@ -3,6 +3,10 @@ pandas
 pandasql
 python-dotenv
 groq
-semantic-router[local]==0.0.72
-chromadb
-# sentence_transformers
+semantic-router==0.0.71
+llama-cpp-python==0.2.82
+chromadb>=0.4.22
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
